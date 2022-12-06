@@ -1,6 +1,6 @@
 
 # Vaibhav Shukla
-### Pre-Final year student at IET Lucknow 
+### Final year student at IET Lucknow 
 
 - 🔭 I’m currently working on MERN stack
 - 🌱 I’m currently learning Data structures and algorithms
